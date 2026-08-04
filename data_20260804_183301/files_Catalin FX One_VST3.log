@@ -1,0 +1,4 @@
+﻿  Could Not Find C:\Users\boss\Desktop\Catalin FX One\Builds\VisualStudio2026\x64\Debug\VST3\Catalin FX One.vst3
+  Could Not Find C:\Users\boss\Desktop\Catalin FX One\Builds\VisualStudio2026\x64\Debug\VST3\Catalin FX One.vst3\Contents
+  Could Not Find C:\Users\boss\Desktop\Catalin FX One\Builds\VisualStudio2026\x64\Debug\VST3\Catalin FX One.vst3\Contents\x86_64-win
+LINK : fatal error LNK1104: cannot open file 'Catalin FX One.lib'
